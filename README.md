@@ -47,5 +47,6 @@ For a closer preview of what we explore in each unit of the boot camp, dive into
 * Common interview questions related to that week’s material
 
 * Helpful resources if you want to get ahead or gain more experience after the unit
+* Testing git pull
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
