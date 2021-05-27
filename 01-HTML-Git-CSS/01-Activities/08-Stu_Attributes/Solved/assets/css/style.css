@@ -3,13 +3,11 @@
 }
 
 .headers {
-    color: orange;
-    background-color: red;
-    font-size: 53px;
+    color: darkblue;
 }
 
 #email {
-    background-color: rgb(255,87, 51)
+    background-color: goldenrod;
 }
 
 #github {
@@ -18,8 +16,4 @@
 
 #portfolio {
     background-color: darkorange;
-}
-
-h1 {
-    background-color: green;
 }
