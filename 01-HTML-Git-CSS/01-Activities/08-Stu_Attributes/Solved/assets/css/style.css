@@ -1,0 +1,25 @@
+.section {
+    background-color: lemonchiffon;
+}
+
+.headers {
+    color: orange;
+    background-color: red;
+    font-size: 53px;
+}
+
+#email {
+    background-color: rgb(255,87, 51)
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+
+h1 {
+    background-color: green;
+}
