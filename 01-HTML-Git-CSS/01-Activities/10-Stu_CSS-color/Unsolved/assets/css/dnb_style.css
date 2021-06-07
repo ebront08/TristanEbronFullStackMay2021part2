@@ -1,0 +1,30 @@
+.section {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue {
+  /* Sets font color */
+  color: orange;
+  /* Sets background color */
+  background-color: #0000ff;
+}
+  
+.container {
+    /* Sets font color */
+    color: white;
+  /* Sets background color */
+  background-color: black;
+}
+
+#section-1 {
+  /* Sets font color */
+  color: yellow;
+  /* Sets background color */
+  background-color: purple;
+}
+
+#section-6 {
+  /* Sets font color */
+  color: yellow;
+}

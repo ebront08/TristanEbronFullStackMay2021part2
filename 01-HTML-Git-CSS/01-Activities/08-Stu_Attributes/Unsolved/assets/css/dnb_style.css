@@ -1,0 +1,18 @@
+.blue  {
+   color: rgb(19, 4, 233);
+  }
+
+  .section{
+    background-color: lemonchiffon;
+  }
+
+  #email {
+    background-color: rgb(240, 179, 11);
+  }
+
+  #github {
+    background-color: rgb(122, 122, 122);
+  }
+  #portfolio {
+    background-color: rgb(228, 124, 6);
+  }
